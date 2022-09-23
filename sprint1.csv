@@ -1,0 +1,29 @@
+Issue Type,Summary
+Epic 1,About 
+Story 1,As a user I want to get all the information about the website
+Task 1,"Create a page ""About"""
+Story 2,"As a user, I want to know the different offers available"
+Story 3 ,"As a Client, I want different plans to be displayed such as Personal, Premium, Business, eCommece so user can suscribe with any one of them"
+Task 1,"Create a page ""see what we offer"" "
+Sub-task 1,"Add link of page ""see what we offer"" on About page"
+Story 4,"As a Client, I want user to select pay monthly and pay annually subscription "
+Task 1,"Create toggle button for ""Pay Monthly"" and""Pay annually"""
+Story 4,"As a user, I should get information about pay monthly and pay annualyy subscriptions  "
+Story 5,"As a client, I want user should get free trial for specific period of time"
+Task 1,"Create a page ""Start with free"" "
+Sub-task 1,"Add link of page ""Start with free trial"" on About page"
+Task 2 ,"As client, I want user should fill the email, username and password to create account"
+Sub-task 1,"Create button ""Create your account"""
+Epic 2,Partners Page
+Story 1,"As a client, I want user should able to contact with us realted to there business requirements "
+Task 1,"Create ""Contact us"" button on partners page that should redirect to ""All set? Contact Us !"" on the same page"
+Story 2,"As a user, I am able to fill my personal detials(name, email…etc) and requirements "
+Task 1,"Create ""Submit"" button to save the data entered"
+Epic 3,Press Page
+Story 1,"As a User, I should get the latest information about the product and latest technology implemented"
+Epic 4,Terms of Services
+Story 1,"As a User, I should get the information related to terms and condition"
+Task 1,Create a page for Terms and Services
+Epic 5,Privacy Policy
+Story 1,"As a User, I should get the information related to terms and condition"
+Story 2,"As a client, I want different sections so user can redirected to that section"
